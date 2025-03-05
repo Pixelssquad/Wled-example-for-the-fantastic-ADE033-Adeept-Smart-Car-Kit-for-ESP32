@@ -8,4 +8,5 @@ Remember add the Adafruit neopixel library in Arduino IDE library manager before
 
 
 Click play to see the light effects
+
 ![ezgif-28385165fbc464](https://github.com/user-attachments/assets/d30eb00e-60e0-445f-8b73-48bc2c467c33)
